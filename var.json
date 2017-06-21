@@ -1,0 +1,18 @@
+[
+    {"year": 2010, "blood":"O Group", "Pourcentage": 15},
+    {"year": 2010, "blood":"A Group", "Pourcentage": 10},
+    {"year": 2010, "blood":"B Group", "Pourcentage": 5},
+    {"year": 2010, "blood":"AB Group", "Pourcentage": 50},
+    {"year": 2011, "blood":"O Group", "Pourcentage": 20},
+    {"year": 2011, "blood":"A Group", "Pourcentage": 10},
+    {"year": 2011, "blood":"B Group", "Pourcentage": 10},
+    {"year": 2011, "blood":"AB Group", "Pourcentage": 43},
+    {"year": 2012, "blood":"O Group", "Pourcentage": 30},
+    {"year": 2012, "blood":"A Group", "Pourcentage": 40},
+    {"year": 2012, "blood":"B Group", "Pourcentage": 20},
+    {"year": 2012, "blood":"AB Group", "Pourcentage": 17},
+    {"year": 2013, "blood":"O Group", "Pourcentage": 60},
+    {"year": 2013, "blood":"A Group", "Pourcentage": 60},
+    {"year": 2013, "blood":"B Group", "Pourcentage": 25},
+    {"year": 2013, "blood":"AB Group", "Pourcentage": 32}
+  ]
